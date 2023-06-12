@@ -1,0 +1,10 @@
+* hyperluminal-mem
+
+High performance serialization library for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cosmos72/hyperluminal-mem.git   |
+| commit  | 7180c01  |
+| systems | hyperluminal-mem |
+|---------+-------------------------------------------|
+
